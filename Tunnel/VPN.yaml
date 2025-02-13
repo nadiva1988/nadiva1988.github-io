@@ -1,5 +1,5 @@
 proxies:
-  - name: FAST
+  - name: Opok Tsel
     server: quiz.vidio.com
     port: 443
     type: trojan
