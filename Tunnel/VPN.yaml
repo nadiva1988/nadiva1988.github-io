@@ -12,7 +12,7 @@ proxies:
       headers:
         Host: sg4.6n6.net
     udp: true
-- name: Vmess Opok Tsel
+  - name: Vmess Opok Tsel
     server: app.gopay.co.id
     port: 443
     type: vmess
@@ -25,4 +25,3 @@ proxies:
       headers:
         Host: sg-1.hihu.net
     udp: true
- 
